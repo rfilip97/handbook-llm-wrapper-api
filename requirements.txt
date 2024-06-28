@@ -1,0 +1,2 @@
+django
+handbook_llm_wrapper @ git+https://github.com/rfilip97/handbook-llm-wrapper.git@main
